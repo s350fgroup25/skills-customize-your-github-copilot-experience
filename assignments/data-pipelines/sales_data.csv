@@ -1,0 +1,10 @@
+product,quantity,price,date
+T-shirt,5,19.99,2026-05-01
+Sneakers,2,59.99,2026-05-02
+Backpack,,34.50,2026-05-03
+Water Bottle,10,12.00,2026-05-03
+Hat,3,15.00,2026-05-04
+Socks,8,5.50,2026-05-05
+Notebook,4,7.99,2026-05-06
+Pencil,12,1.20,2026-05-06
+Cap,2,abc,2026-05-07

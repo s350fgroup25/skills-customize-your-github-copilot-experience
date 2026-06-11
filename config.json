@@ -60,6 +60,25 @@
       ]
     },
     {
+      "id": "data-pipelines",
+      "title": "Data Pipelines with Python",
+      "description": "Build a workflow that reads, cleans, transforms, and saves CSV data using Python.",
+      "path": "assignments/data-pipelines",
+      "dueDate": "2026-07-05",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Sample Dataset",
+          "file": "sales_data.csv",
+          "type": "csv"
+        }
+      ]
+    },
+    {
       "id": "fastapi-rest-api",
       "title": "Building REST APIs with FastAPI",
       "description": "Create a REST API using FastAPI with request validation and CRUD operations.",
